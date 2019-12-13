@@ -1,0 +1,1 @@
+EXITING because of fatal PARAMETERS error: present --sjdbOverhang=74 is not equal to the value at the genome generation step =99
