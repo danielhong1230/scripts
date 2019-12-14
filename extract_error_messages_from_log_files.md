@@ -1,8 +1,8 @@
 # Extracting the error messages from the log files
 
-*2019-12-13
+*2019-12-13*
 
-*Bong-Ki Hong, PhD
+*Bong-Ki Hong, PhD*
 
 ### Make a list of files with failed to STAR alignment
 
