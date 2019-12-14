@@ -6,11 +6,13 @@
 
 ### Make a list of files with failed to STAR alignment
 
-These files have 0 kbs size.
+In this analysis, the BAM files with failed have 0 kbs size.
 Reference URL is <https://mycyberuniverse.com/linux/find-and-delete-the-zero-size-files-and-empty-directories.html>.
 ```{bash}
-find ./ -type f -size 0
+find ./ -type f -size 0 > list_failed.txt
 ```
+
+Then, I m modified the `list_failed.txt` to conatin the exact filenames of log files.
 
 ### shell script
 
