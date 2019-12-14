@@ -23,3 +23,12 @@ do
 	tail -6 length_75/result/STAR_aligned/${i}
 done;
 ```
+
+
+## Using `grep`
+
+Reference URL is <https://phoenixnap.com/kb/grep-command-linux-unix-examples>.
+
+```{bash}
+grep ERROR *
+```
