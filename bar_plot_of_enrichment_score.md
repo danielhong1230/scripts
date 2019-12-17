@@ -71,8 +71,13 @@ p + coord_flip()
 
 ## References
 <https://stackoverflow.com/questions/15624656/label-points-in-geom-point>
+
 <http://www.sthda.com/english/wiki/ggplot2-colors-how-to-change-colors-automatically-and-manually>
+
 <https://stackoverflow.com/questions/4350440/split-data-frame-string-column-into-multiple-columns>
+
 <https://stackoverflow.com/questions/22288450/tick-labels-in-ggplot2-bar-graph>
+
 <https://sebastiansauer.github.io/ordering-bars/>
+
 <https://www.sessions.edu/color-calculator/>
