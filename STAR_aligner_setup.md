@@ -27,7 +27,6 @@ make STAR
 https://genome.ucsc.edu/goldenPath/help/ftp.html
 http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/
 
-[username: anonymous, password: danielhong@catholic.ac.kr]
 ```{bash}
 mkdir reference
 cd reference
